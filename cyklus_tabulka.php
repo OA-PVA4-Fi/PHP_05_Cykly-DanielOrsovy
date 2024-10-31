@@ -39,5 +39,26 @@ $city = array(
 );
 
 //reseni
+'
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<table class="center" id="table">
+		<tr>
+			<th>Stát</th> <th>Hlavní město</th>
+		</tr>
+		<tr>
+			<td>
+		</tr>
+	</table>
 
+
+</body>
+</html>
+'
 ?>
